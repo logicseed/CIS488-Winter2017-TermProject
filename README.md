@@ -1,7 +1,7 @@
 Game Design II - CIS488 Winter 2017
 ======
 >The second semester of Game Design tasked our team with learning a new game engine (Unreal Engine)
->and creating a playable game. The design that was chosen for our team was a demolition racing game
+>while creating a playable game. The design that was chosen for our team was a demolition racing game
 >where the player tried to destroy as many crates as possible within the time allowed. The player's
 >vehicle was outfitted with several features to assist in that goal; invulnerability, impulse bombs,
 >solid-holographic ramps, speed boost, enveloping airbags, and more. Since one of the contraints of
@@ -58,7 +58,7 @@ again.*
 
 [![Bombs](Screenshots/Bombs.gif?raw=true "Bombs")](Screenshots/Bombs.gif?raw=true)
 
-*A recharable speed boost assists the player in making longer jumps and reaching remote locations.*
+*A rechargable speed boost assists the player in making longer jumps and reaching remote locations.*
 
 [![Boost](Screenshots/Boost.gif?raw=true "Boost")](Screenshots/Boost.gif?raw=true)
 
