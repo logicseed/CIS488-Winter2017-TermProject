@@ -1,3 +1,8 @@
+:warning: | __The content of this repository is explicitly NOT LICENSED for use, modification, or sharing. Per GitHub's terms of service it may only be viewed. See [No License] for more information.__ | :warning:
+--------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------
+
+[No License]: https://choosealicense.com/no-permission/
+
 Game Design II - CIS488 Winter 2017
 ======
 >The second semester of Game Design tasked our team with learning a new game engine (Unreal Engine)
